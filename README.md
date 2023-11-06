@@ -6,22 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunkeyyfong&label=Profile%20views&color=0e75b6&style=flat" alt="dunkeyyfong" /> </p>
 
 
-- 🔭 I’m currently working on [VatVoApp](https://github.com/dunkeyyfong/VatVoApp)
-
-- 🌱 I’m currently learning **C#, Swift, HTML, C++ etc.**
-
-- 👯 I’m looking to collaborate on [dunkeyyfong.github.io](https://github.com/dunkeyyfong/dunkeyyfong.github.io)
-
-- 🤝 I’m looking for help with [Hackintosh](https://github.com/dunkeyyfong/Dell-Inspiron-3543-Hackintosh)
-
-- 👨‍💻 All of my projects are available at [dunkeyyfong.click](dunkeyyfong.click)
-
-- 📝 I regularly write articles on [facebook.com/dunkeyy.fong](facebook.com/dunkeyy.fong)
-
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **pgongtrong5@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dunkeyy.fong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dunkeyy.fong" height="30" width="40" /></a>
