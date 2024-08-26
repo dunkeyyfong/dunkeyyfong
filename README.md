@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DunkeyyFong</h1>
 <h3 align="center">I am a kiddy in Developer's World, I am currently studying at Btec FPT College.</h3>
 
-<img align="right" alt="true" style="border-radius: 20%; margin-bottom: 10px;" src="https://raw.githubusercontent.com/dunkeyyfong/FNStore/main/anime.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunkeyyfong&label=Profile%20views&color=0e75b6&style=flat" alt="dunkeyyfong" /> </p>
 
