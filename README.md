@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm DunkeyyFong</h1>
-<h3 align="center">I am a kiddy in Developer's World, I am currently studying at Btec FPT College.</h3>
 
 
 ```js
